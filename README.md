@@ -66,7 +66,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Issues and PRs welcome.
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
-## Acknowledgements
-
-Adapted from [HyperPi](https://github.com/) multispectral LED illumination project. Filter selection based on Edmund Optics Optical Cast Plastic Color Filters (#1917 family).
