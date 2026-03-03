@@ -33,7 +33,7 @@ All 4 cameras capture in parallel — CSI and USB are on independent buses.
 | FPC cables, USB cables, white ref card | — | $15 |
 | **Total** | | **~$200** |
 
-See [docs/HARDWARE.md](docs/HARDWARE.md) for the complete build guide, wiring diagrams, and filter mounting.
+See [HARDWARE.md](HARDWARE.md) for the complete build guide, wiring diagrams, and filter mounting.
 
 ## Filters
 
