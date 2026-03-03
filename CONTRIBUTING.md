@@ -5,7 +5,7 @@ Thanks for your interest in improving the multispectral camera project!
 ## Getting Started
 
 1. Fork this repo
-2. Clone your fork: `git clone https://github.com/suyog44/multispectral-camera.git`
+2. Clone your fork: `git clone https://github.com/suyog44/Spectra-Multispectral-Imagining-System-for-surveillance.git`
 3. Create a branch: `git checkout -b feature-name`
 4. Make changes
 5. Run tests: `make test`
